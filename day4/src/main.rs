@@ -1,4 +1,3 @@
-use petgraph::algo::tred::dag_to_toposorted_adjacency_list;
 use std::fs;
 
 #[derive(Debug)]
